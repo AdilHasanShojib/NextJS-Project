@@ -33,8 +33,34 @@ SwiftEats is an intuitive and efficient food delivery platform where restaurants
 ## 🛠️ Technologies Used
 
 **Frontend:** Next.js
+
 **Backend:** Node.js
+
 **Database:** MongoDB
+
 **Styling:** CSS for UI design.
+
 **Icons:** React Icons
+
 **Authentication:** User login and registration system for secure access.
+
+
+## 📦 Dependencies
+
+### Core Dependencies:
+**Next.js:** ^14.1.0
+
+**React:** ^18
+
+**React-DOM:** ^18
+
+**Mongoose:** ^8.6.3
+
+**React Icons:** ^5.3.0
+
+### Development Scripts:
+**dev:** Start the development server.
+**build:** Create a production build.
+**start:** Start the production server.
+**lint:** Run linting checks.
+
