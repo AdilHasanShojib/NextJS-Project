@@ -1,3 +1,8 @@
+
+![University Talent Showcase](GIF/swifteats.gif)
+
+
+
 # SwiftEats 🍔
 SwiftEats is an intuitive and efficient food delivery platform where restaurants, users, and delivery personnel come together. Built using Next.js, MongoDB, and React, SwiftEats offers a seamless experience for food enthusiasts, restaurant owners, and delivery personnel.
 
@@ -24,7 +29,7 @@ SwiftEats is an intuitive and efficient food delivery platform where restaurants
 **Total Bill Calculation:** View the total bill for an order, including food charges, tax, and delivery charges.
 
 
-###🚚 Delivery Man:
+### 🚚 Delivery Man:
 
 **Order Assignment:** Take orders based on the city location.
 
