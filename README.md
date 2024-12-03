@@ -1,4 +1,4 @@
-### SwiftEats 🍔
+# SwiftEats 🍔
 SwiftEats is an intuitive and efficient food delivery platform where restaurants, users, and delivery personnel come together. Built using Next.js, MongoDB, and React, SwiftEats offers a seamless experience for food enthusiasts, restaurant owners, and delivery personnel.
 
 ## 🚀 Features
