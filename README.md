@@ -60,7 +60,43 @@ SwiftEats is an intuitive and efficient food delivery platform where restaurants
 
 ### Development Scripts:
 **dev:** Start the development server.
+
 **build:** Create a production build.
+
 **start:** Start the production server.
+
 **lint:** Run linting checks.
+
+
+## ⚙️ How to Run Locally
+**Clone the Repository:**
+  ```bash
+    git clone https://github.com/AdilHasanShojib/University-Talent-Showcase.git
+    cd restaurants
+  
+  ```
+
+**Install Dependencies:**
+```bash
+    npm install
+  ```
+
+**Set Up Environment Variables:** Create a .env file in the root directory with the following variables:
+
+```env
+MONGODB_URI=<Your MongoDB Connection URI>
+JWT_SECRET=<Your JWT Secret Key>
+```
+**Run the Application:**
+```bash
+npm run dev
+```
+**Access the Application:**
+Open your browser and go to http://localhost:3000.
+
+
+
+
+
+
 
