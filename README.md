@@ -91,7 +91,7 @@ JWT_SECRET=<Your JWT Secret Key>
 ```bash
 npm run dev
 ```
-**Access the Application:**
+**Access the Application:** <br>
 Open your browser and go to http://localhost:3000.
 
 
